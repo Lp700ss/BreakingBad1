@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"name": "BreakingBad1",
+			"path": "..\\..\\..\\BreakingBad1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
